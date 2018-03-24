@@ -13,9 +13,9 @@ Smarty peut répondre à certaines questions :
 - C est quoi la vie ?
 - Qui est ton créateur ?
 - C'est qui ton créateur ?
-- Qui est Melestyl ?
 - C'est qui Melestyl ?
 - C est qui ton créateur ?
 - C est qui ton createur ?
 - C'est qui ton createur ?
+- Qui est Melestyl ?
 - Qui est ton createur ?
